@@ -21,3 +21,6 @@ current
 npm-shrinkwrap.json
 package-lock.json
 yarn.lock
+
+# rust build output
+target
